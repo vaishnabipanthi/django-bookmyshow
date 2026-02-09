@@ -23,3 +23,14 @@ This repository contains the final submission for the Nullclass  Internship. The
 * Database: SQLite3
 * Frontend: HTML5, CSS3 (Arial font styling), Bootstrap
 * APIs: Razorpay, YouTube Embed API
+8. project screenshots
+  1. Admin Dashboard & Revenue Analytics
+  assests/Screenshot 2026-02-09 143004.png
+  2. Movie Management & Bookings
+  assests/Screenshot 2026-02-09 143004.png
+  3. Movie Details & Trailer Integration
+  assests/Screenshot 2026-02-09 143049.png
+  4. User Movie Selection Page
+  assests/Screenshot 2026-02-09 143106.png
+  5. Seat Booking & Payment Status
+  assests/Screenshot 2026-02-09 143156.png
