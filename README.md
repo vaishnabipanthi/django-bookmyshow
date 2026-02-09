@@ -9,11 +9,13 @@ This repository contains the final submission for the Nullclass  Internship. The
 2.  Ticket Email Confirmation: Automated email trigger upon successful booking using Django's SMTP backend.
 3.  YouTube Trailer Integration: Embedded trailers on movie detail pages to provide a richer user experience.
 4.  Payment Gateway Integration: Integrated **Razorpay** with success/failure handling for secure transactions.
-5.  Seat Reservation Timeout:** Implemented a **5-minute locking mechanism**. Seats are temporarily reserved during payment and automatically released if the transaction isn't completed.
-6.  Admin Dashboard & Analytics:** A custom admin panel showing:
-    * Total Revenue 💰
-    * Most Popular Movies 🎬
-    * Busiest Theaters 🏛️
+5.  Seat Reservation Timeout: Implemented a **5-minute locking mechanism**. Seats are temporarily reserved during payment and automatically released if the transaction isn't completed.
+6.  Admin Dashboard & Analytics: A custom admin panel showing:
+    * Total Revenue 
+    * Most Popular Movies 
+    * Busiest Theaters
+7.  project screenshots :
+   
 
  Tech Stack
 
